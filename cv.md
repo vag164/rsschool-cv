@@ -1,4 +1,5 @@
 # Vagif Babaev
+----
 ![photo](![IMG-20190907-WA0001](https://user-images.githubusercontent.com/106556472/172069096-0e53cf42-0966-405b-964a-6f3247d57efc.jpeg)
 )
 
@@ -20,3 +21,5 @@
 * Secondary special education. Saratov Medical College. 2010-2013
 ### English language:
 * School program
+----
+>"The one who does nothing is never wrong." Theodore Roosevelt
