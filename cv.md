@@ -1,8 +1,7 @@
 # Vagif Babaev
 ----
-![photo](![IMG-20190907-WA0001](https://user-images.githubusercontent.com/106556472/172069096-0e53cf42-0966-405b-964a-6f3247d57efc.jpeg)
-)
-
+![photo](IMG-20190907-WA0001.jpeg)
+----
 ### Contact information:
 * Telephone number: 89878379116
 * E-mail: 90babaev@mail.ru
